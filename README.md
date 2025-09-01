@@ -52,3 +52,5 @@ The benefits of this task include:
 3. Enhanced security: The model can help prevent phishing attacks and other types of email-based scams by identifying and flagging suspicious emails.
 
 Overall, this task demonstrates the application of machine learning techniques to real-world problems and provides a practical solution for spam email detection.
+
+"OUTPUT": ![Image](https://github.com/user-attachments/assets/5772d5a8-d784-4d60-ae2a-0d41e79ed3e1)
